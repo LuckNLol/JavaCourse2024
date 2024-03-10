@@ -1,0 +1,5 @@
+Test 10 we are going to read this file and then wrie something here
+New text will be added below:
+Hello world! This is a new note 
+
+�
